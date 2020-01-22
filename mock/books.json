@@ -1,0 +1,31 @@
+[
+    {
+      "title": "Straz! Straz!",
+      "author": "Terry Pratchett",
+      "publicationDate": "1989",
+      "genre": "Fantastyka",
+      "audience": "Młodzież"
+    },
+    {
+      "title": "Dwie wieze",
+      "author": "J. R. R. Tolkien",
+      "publicationDate": "1954",
+      "genre": "Fantastyka",
+      "audience": "Młodzież"
+    },
+    {
+      "title": "Komnata Tajemnic",
+      "author": "J. K. Rowling",
+      "publicationDate": "1998",
+      "genre": "Fantastyka",
+      "audience": "Młodzież"
+    },
+    {
+      "title": "Good Omens",
+      "author": "Terry Pratchett",
+      "publicationDate": "1990",
+      "genre": "Fantastyka",
+      "audience": "Młodzież"
+    }
+  
+  ]
